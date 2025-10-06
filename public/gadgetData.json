@@ -1,0 +1,182 @@
+[
+  {
+    "product_id": "001",
+    "product_title": "Apple iPhone 15 Pro",
+    "product_image": "https://i.ibb.co.com/3yP9WGmj/iphone-15-pro-max.jpg",
+    "category": "Smartphones",
+    "price": 999.00,
+    "description": "Apple’s latest flagship with A17 Pro chip, ProMotion display, and advanced camera system.",
+    "Specification": [
+      "Display: 6.1” Super Retina XDR with ProMotion",
+      "Processor: A17 Pro",
+      "RAM: 8 GB",
+      "Storage: 256 GB",
+      "Battery: Up to 23 hours video playback"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "color_options": ["Space Black", "Silver", "Gold", "Blue"]
+  },
+  {
+    "product_id": "002",
+    "product_title": "Samsung Galaxy S24 Ultra",
+    "product_image": "https://i.ibb.co.com/39xCGqDz/galaxy-s24-ultra.jpg",
+    "category": "Smartphones",
+    "price": 1199.00,
+    "description": "Ultra-premium Android phone with 200MP camera, QHD+ 120Hz display, and S Pen support.",
+    "Specification": [
+      "Display: 6.8” QHD+ Dynamic AMOLED 2X",
+      "Processor: Snapdragon 8 Gen 3",
+      "RAM: 12 GB",
+      "Storage: 256 GB",
+      "Battery: 5000 mAh"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "color_options": ["Space Black", "Silver", "Blue"]
+  },
+  {
+    "product_id": "003",
+    "product_title": "Google Pixel 8 Pro",
+    "product_image": "https://i.ibb.co.com/60zXQvwF/pixel-8-pro.jpg",
+    "category": "Smartphones",
+    "price": 899.00,
+    "description": "Google’s flagship with Tensor G3 chip, 120Hz Smooth Display, and pro-grade camera software.",
+    "Specification": [
+      "Display: 6.7” LTPO OLED, 120Hz",
+      "Processor: Google Tensor G3",
+      "RAM: 12 GB",
+      "Storage: 128 GB",
+      "Battery: 5050 mAh"
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "color_options": ["Space Black", "Silver", "Gold"]
+  },
+  {
+    "product_id": "004",
+    "product_title": "Apple iPhone 15",
+    "product_image": "https://i.ibb.co.com/N6KnFR3w/iphone-15.jpg",
+    "category": "Smartphones",
+    "price": 799.00,
+    "description": "The standard iPhone 15 with A16 Bionic, durable design, and 48MP main camera.",
+    "Specification": [
+      "Display: 6.1” Super Retina XDR",
+      "Processor: A16 Bionic",
+      "RAM: 6 GB",
+      "Storage: 128 GB",
+      "Battery: Up to 20 hours video playback"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "color_options": ["Yellow", "Green", "Blue", "Black"]
+  },
+  {
+    "product_id": "005",
+    "product_title": "Samsung Galaxy S24",
+    "product_image": "https://i.ibb.co.com/fG0JS7sC/samsung-s24.jpg",
+    "category": "Smartphones",
+    "price": 799.00,
+    "description": "Flagship Galaxy with 6.2” FHD+ 120Hz display, triple-camera array, and Exynos/Snapdragon chipset.",
+    "Specification": [
+      "Display: 6.2” FHD+ Dynamic AMOLED 2X",
+      "Processor: Exynos 2400 / Snapdragon 8 Gen 3",
+      "RAM: 8 GB",
+      "Storage: 128 GB",
+      "Battery: 3900 mAh"
+    ],
+    "availability": true,
+    "rating": 4.4,
+    "color_options": ["Space Black", "Silver", "Gold", "Blue"]
+  },
+  {
+    "product_id": "006",
+    "product_title": "Google Pixel 8",
+    "product_image": "https://i.ibb.co.com/xZHbz2T/pixel-8.jpg",
+    "category": "Smartphones",
+    "price": 699.00,
+    "description": "Compact Pixel with Tensor G3, excellent photo features, and smooth OLED display.",
+    "Specification": [
+      "Display: 6.2” OLED, 120Hz",
+      "Processor: Google Tensor G3",
+      "RAM: 8 GB",
+      "Storage: 128 GB",
+      "Battery: 4575 mAh"
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "color_options": ["Space Black", "Silver", "Gold", "Blue"]
+  },
+  {
+    "product_id": "007",
+    "product_title": "Apple MacBook Air M2",
+    "product_image": "https://i.ibb.co.com/qFCPNsSd/macbook-air-m2.jpg",
+    "category": "Laptops",
+    "price": 1199.00,
+    "description": "Ultra-thin notebook with Apple M2 chip, fanless design, and long battery life.",
+    "Specification": [
+      "Processor: Apple M2",
+      "RAM: 8 GB",
+      "Storage: 256 GB SSD",
+      "Display: 13.6” Liquid Retina",
+      "Battery: Up to 18 hours"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "colors_available": ["Silver", "Space Gray", "Midnight", "Starlight"]
+  },
+  {
+    "product_id": "008",
+    "product_title": "Samsung Galaxy Book3 Ultra",
+    "product_image": "https://i.ibb.co.com/hJSNHX3Q/samsung-book3-ultra.jpg",
+    "category": "Laptops",
+    "price": 1399.00,
+    "description": "High-performance Windows laptop with 16” AMOLED display and RTX-class GPU option.",
+    "Specification": [
+      "Processor: Intel Core i9-13980HX",
+      "RAM: 32 GB",
+      "Storage: 1 TB SSD",
+      "Display: 16” AMOLED, 120Hz",
+      "GPU: NVIDIA GeForce RTX 4070"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "colors_available": ["Silver", "Space Gray", "Midnight", "Starlight"]
+  },
+  {
+    "product_id": "009",
+    "product_title": "Samsung Galaxy Watch6",
+    "product_image": "https://i.ibb.co.com/DPBr4vWG/galaxy-watch-6.jpg",
+    "category": "Smartwatches",
+    "price": 299.00,
+    "description": "Next-gen Galaxy Watch with improved battery, health sensors, and Wear OS 4.",
+    "Specification": [
+      "Display: 1.4” Super AMOLED",
+      "Battery: 425 mAh",
+      "Sensors: ECG, BioActive Sensor",
+      "OS: Wear OS 4",
+      "Case Sizes: 40mm, 44mm"
+    ],
+    "availability": true,
+    "rating": 4.4,
+    "strap_options": ["Leather", "Silicone", "Metal"]
+  },
+  {
+    "product_id": "010",
+    "product_title": "Google Pixel Watch 2",
+    "product_image": "https://i.ibb.co.com/SX6LwHkN/pixel-watch-2.jpg",
+    "category": "Smartwatches",
+    "price": 349.00,
+    "description": "Pixel Watch sequel with faster chipset, Fitbit integration, and new sensors.",
+    "Specification": [
+      "Display: 1.2” AMOLED",
+      "Battery: 300 mAh",
+      "Sensors: HEART RATE, SPO₂, EDA",
+      "OS: Wear OS 4",
+      "Connectivity: LTE option"
+    ],
+    "availability": false,
+    "rating": 4.2,
+    "strap_options": ["Leather", "Silicone"]
+  }
+]
